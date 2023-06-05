@@ -17,7 +17,7 @@ Hours 7-10:
     * Reading: Introduction to Bulk RNA-Seq Analysis (e.g., "RNA-seq: a revolutionary tool for transcriptomics" by Zhong Wang et al.).
     * Hands-on: Follow a tutorial on performing Bulk RNA-seq analysis (like the ones provided by Galaxy Project).
 ## Week 3 & 4: Deep Learning in Genomics
-Hours 1-3:
+Hours 1-3:test
 
 * *Topic:* Review of Deep Learning Basics
     * Reading: "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville (If necessary)
