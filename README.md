@@ -17,7 +17,7 @@ Hours 7-10:
     * Reading: Introduction to Bulk RNA-Seq Analysis (e.g., "RNA-seq: a revolutionary tool for transcriptomics" by Zhong Wang et al.).
     * Hands-on: Follow a tutorial on performing Bulk RNA-seq analysis (like the ones provided by Galaxy Project).
 ## Week 3 & 4: Deep Learning in Genomics
-Hours 1-3:test
+Hours 1-3:
 
 * *Topic:* Review of Deep Learning Basics
     * Reading: "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville (If necessary)
@@ -39,4 +39,4 @@ Description: Apply a deep learning model to a genomic or RNA-Seq dataset. You ca
 * Week 1: Exploratory data analysis and data preprocessing.
 * Week 2: Implementing and training the model.
 * Week 3: Evaluating the model and fine-tuning.
-* `Week 4: Writing a project report and preparing a presentation or blog post about your work. Make sure to highlight the problem you addressed, your approach, the challenges you encountered, how you resolved them, and your results.
+* Week 4: Writing a project report and preparing a presentation or blog post about your work. Make sure to highlight the problem you addressed, your approach, the challenges you encountered, how you resolved them, and your results.
