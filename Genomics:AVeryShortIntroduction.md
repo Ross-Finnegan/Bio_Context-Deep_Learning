@@ -12,6 +12,8 @@ Will explore the science of genomics and its rapidly expanding toolbox.
 * Cell is the fundamental unit of life. Two main types:
     1. Prokaryotes - microscopic, single-cell. Bacteria, E-Coli in gut. Archaea
     2. Eukaryotes - numerous membrane-bound compartments. Nucleus, mitochrondrian, chloroplasts. Cytoskeleton - protein based internal scaffolding system that allows eukaryotes to change shape and size.
+    ![prokaryotic and eukaryotic cells](Illustration_1.png)
+* 
 ### 2. How to read the book of life ### 
 ### 3. Making sense of genes and genomes ###
 ### 4. The human genome in biology and medicine ###
