@@ -7,6 +7,7 @@ Will explore the science of genomics and its rapidly expanding toolbox.
 * How it is likely to do so in the future
 
 ### 1. What is genomics? ###
+
 ### 2. How to read the book of life ### 
 ### 3. Making sense of genes and genomes ###
 ### 4. The human genome in biology and medicine ###
