@@ -14,6 +14,14 @@ Will explore the science of genomics and its rapidly expanding toolbox.
     2. Eukaryotes - numerous membrane-bound compartments. Nucleus, mitochrondrian, chloroplasts. Cytoskeleton - protein based internal scaffolding system that allows eukaryotes to change shape and size.
     ![prokaryotic and eukaryotic cells](Illustration_1.png)
 * Viruses are neither prokaryotes or eukaryotes. (More in Chapter 6)
+* DNA spiralling ladder - steps built from nucleotides which contain a negatively charged phosphate on the outside, a so-called base on the inside and a sugar linking the two.
+  * Four bases in DNA: Adenine (A), Cytosine (C), Guanine (G), Thymine (T)
+  * A-T and C-G. These are the 'base pairs' (bp)
+* DNA replication - pull two strands of the double helix apart. Once apart, the cell uses each single strand as a template for the sequential addition of complementary nucleotides. End result is two DNA double helices.
+  * Extremely accurate but not perfect
+  * During this process most mutations in DNA arise.
+  * The complimentary nature of the two strands of DNA means only one strand needs to be sequenced
+* The mechanism by which genes mediate the synthesis of proteins also involves separation of the double helix.
 ### 2. How to read the book of life ### 
 ### 3. Making sense of genes and genomes ###
 ### 4. The human genome in biology and medicine ###
