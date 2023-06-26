@@ -22,6 +22,9 @@ Will explore the science of genomics and its rapidly expanding toolbox.
   * During this process most mutations in DNA arise.
   * The complimentary nature of the two strands of DNA means only one strand needs to be sequenced
 * The mechanism by which genes mediate the synthesis of proteins also involves separation of the double helix.
+  * One of the two DNA strands serves as a template for the production of RNA.
+    * Sugar in RNA is ribose, not deoxyribose
+    * Ribonucleotide bases are A,C,G, and U (uracil)
 ### 2. How to read the book of life ### 
 ### 3. Making sense of genes and genomes ###
 ### 4. The human genome in biology and medicine ###
